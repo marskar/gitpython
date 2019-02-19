@@ -1,0 +1,8 @@
+bin
+build.err
+build.log
+include
+lib
+minimal.egg-info
+.idea
+__pycache__
