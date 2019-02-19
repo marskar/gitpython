@@ -23,7 +23,7 @@ major-release: major release
 	git init
 	git add --all
 	git commit --message "First commit"
-	git remote add origin https://github.com/marskar/include.git
+	git remote add origin https://github.com/marskar/gitpython.git
 	git push --set-upstream origin master
 
 .venv/bin/activate: setup.py
